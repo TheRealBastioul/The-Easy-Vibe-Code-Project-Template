@@ -1,0 +1,5 @@
+# Keep the folder skeletons, ignore their contents
+plans/*
+!plans/README.md
+ref/*
+!ref/.gitkeep
