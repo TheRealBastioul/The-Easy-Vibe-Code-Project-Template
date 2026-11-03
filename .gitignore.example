@@ -3,3 +3,12 @@ plans/*
 !plans/README.md
 ref/*
 !ref/.gitkeep
+
+#Uncomment if you want to leave these out of your main repo.
+
+# buildlogs/
+# .claude/
+# design/
+# CLAUDE.md
+
+# Ideally, you will just want to have the src/ folder as your main repo
